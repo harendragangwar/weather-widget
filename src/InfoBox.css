@@ -1,0 +1,7 @@
+.abcd{
+    text-align: center;
+}
+.cardBox{
+    display: flex;
+    justify-content: center;
+}
